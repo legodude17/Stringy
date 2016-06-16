@@ -1,0 +1,23 @@
+{
+  "name": "strings-and-tokens",
+  "version": "1.0.2",
+  "description": "A string manipulation library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "string",
+    "parse",
+    "token"
+  ],
+  "author": "JDB",
+  "license": "MIT",
+  "dependencies": {
+    "magicpen": "^5.9.3",
+    "stringtokenizer": "0.0.4"
+  },
+  "devDependencies": {
+    "unexpected": "^10.13.2"
+  }
+}
